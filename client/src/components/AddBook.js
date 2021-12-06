@@ -3,7 +3,7 @@ import {graphql} from 'react-apollo';
 import {getAuthorsQuery,addBookMutation,getBooksQuery} from '../queries/queries';
 import {flowRight as compose} from 'lodash';
 //util to use console.log
-const util = require('util');
+// const util = require('util');
 
 class AddBook extends Component {
   constructor(props){
