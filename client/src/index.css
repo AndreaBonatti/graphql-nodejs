@@ -10,8 +10,8 @@ body {
 
 #main{
     padding: 0px;
-    box-sizing: border-box;
     width: 60%;
+    box-sizing: border-box;
     height: 100%;
 }
 
