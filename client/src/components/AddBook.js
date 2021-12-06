@@ -44,6 +44,7 @@ class AddBook extends Component {
         <div className="field">
           <label>Author:</label>
           <select>
+            <option>Select author</option>
             {this.displayAuthors()}
           </select>
         </div>
